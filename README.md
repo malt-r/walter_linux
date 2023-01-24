@@ -16,3 +16,7 @@ Because of the massive time constraints and my lack of knowledge in robotics and
 this project is probably riddled with bugs and questionable design choices. 
 
 This repository is only intended for documentation purposes.
+
+## Demo Video
+
+A demo video of the finished robot on the last day before the official presentation can be found on [YouTube](https://youtu.be/dJXZlB9nMiQ).
